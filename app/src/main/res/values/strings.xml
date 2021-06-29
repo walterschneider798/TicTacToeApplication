@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="x">x</string>
+    <string name="Spielerx">Spieler X ist an der Reihe</string>
+    <string name="sp1">Spieler 1</string>
+    <string name="sp2">Spieler 2</string>
+</resources>
